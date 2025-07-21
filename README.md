@@ -1,5 +1,7 @@
 ## Hi there 👋
+我是 **方毅凯**。
 
+📫 联系方式：**13709189752@163.com**
 <!--
 **YikaiFang123/YiKaiFang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
